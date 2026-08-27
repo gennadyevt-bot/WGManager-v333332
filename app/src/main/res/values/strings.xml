@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WG Manager</string>
+    <string name="tap_to_connect">Tap to connect</string>
+    <string name="tap_to_disconnect">Tap to disconnect</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="add_server">Add Server</string>
+    <string name="save_server">Save Server</string>
+    <string name="server_name_hint">Server name (e.g. DE-FRA-02)</string>
+    <string name="location_hint">Location (e.g. Germany, Berlin)</string>
+    <string name="country_code_hint">Country code (e.g. de)</string>
+    <string name="vpn">VPN</string>
+</resources>

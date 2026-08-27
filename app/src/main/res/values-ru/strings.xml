@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WG Manager</string>
+    <string name="tap_to_connect">Нажмите для подключения</string>
+    <string name="tap_to_disconnect">Нажмите для отключения</string>
+    <string name="connected">Подключено</string>
+    <string name="disconnected">Отключено</string>
+    <string name="add_server">Добавить сервер</string>
+    <string name="save_server">Сохранить сервер</string>
+    <string name="server_name_hint">Имя сервера (например, DE-FRA-02)</string>
+    <string name="location_hint">Расположение (например, Германия, Берлин)</string>
+    <string name="country_code_hint">Код страны (например, de)</string>
+    <string name="vpn">VPN</string>
+</resources>
